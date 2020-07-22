@@ -11,4 +11,4 @@ Thanks for dropping by! I'm a Data Scientist and full stack developer based out 
 - 💬 Ask me about anything, project-related or my professional roadmap. 
 - 📫 Know all about me on my [website](https://www.pallavibharadwaj.com)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm also a professional Indian Classical Dancer and an athlete.
+- ⚡ Fun fact: I'm also a professional Indian Classical Dancer and an Athlete.
