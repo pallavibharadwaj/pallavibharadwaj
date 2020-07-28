@@ -11,4 +11,5 @@ Thanks for dropping by! I'm a Data Scientist and full stack developer based out 
 - 💬 Reach out to me for project-related discussions, or even for a game of chess!
 - 📫 Know all about me on my [website](https://www.pallavibharadwaj.com)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm also a professional Indian Classical Dancer and an Athlete.
+- ✨ Passion: Indian Classical Dance, Instrument of Veena, Swimming, Yoga, Chess.
+- ⚡ Fun fact: Fitness Freak, ability to sleep anytime and anywhere. (I know! :D)
