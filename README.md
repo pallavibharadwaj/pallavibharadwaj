@@ -10,5 +10,4 @@ Thanks for dropping by! I'm a full-stack Data Scientist based out of Canada.
 - 👯 Seeking collaborations on python-based Data Science/Engineering projects.
 - 📫 Personal Website: https://www.pallavibharadwaj.com
 - 😄 Pronouns: she/her
-- ✨ Passion: Indian Classical Dance, Instrument of Veena, Swimming, Yoga, Chess.
-- ⚡ Fun fact: Fitness Freak, ability to sleep anytime and anywhere!
+- ✨ Passion: Indian Classical Dance, Instrument of Veena, Swimming, Yoga, and Chess.
